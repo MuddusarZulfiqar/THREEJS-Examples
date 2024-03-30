@@ -1,18 +1,16 @@
 # THREE.js | Example
 
-Foobar is a Python library for dealing with word pluralization.
+Three.js is a JavaScript library that makes creating 3D graphics on the web easy. It is a lightweight 3D library with a very low level of complexity — in other words, for dummies. The library provides canvas, svg, CSS3D and WebGL renderers.
 
 ## Installation
 
-Use the package manager [parcel](https://www.npmjs.com/package/parcel) to run application on port 1234.
+Use the package manager [parcel](https://www.npmjs.com/package/parcel) to run application on localhost port 1234.
 
 ```bash
-npm run dev
+cd foldername && npm run dev
 ```
 
 change.
-
-Please make sure to update tests as appropriate.
 
 ## License
 
